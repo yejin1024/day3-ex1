@@ -1,1 +1,3 @@
+print("bye!")
 print("hi")
+
